@@ -117,16 +117,15 @@ SHOW TABLES;
 
 <div align="center">
 
-| 🏗️ | Name | Role |
-|----|------|------|
-| 🌟 | **Leen** | 
-| 💡 | **Hind** |
-| 🔧 | **Ghadah** | 
-| 📊 | **Anwar** | 
-| 📋 | **Noura** | 
+| 🏗️ | Name |
+|----|------|
+| 🌟 | **Leen Daghriri** |
+| 💡 | **Rima Amashi** |
+| 🔧 | **Waad Ali Madkhali** |
+| 📊 | **Karima Musa Mubaraki** |
+| 📋 | **Sarah Maayel Harubi** |
 
 </div>
-
 ---
 
 ## 🔗 Connect
