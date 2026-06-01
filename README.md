@@ -29,21 +29,18 @@ This was my **first ever database project** — designed during my **Database Sy
 
 ---
 
+
 ## 🏆 Achievement
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0MYyoiQfGTOBxATS/giphy.gif" width="80px"/>
+### 🌟 ⭐ 🌟 ⭐ 🌟
+# 🎓 A+
+### **Course** Database Management Systems
+*Top grade in both the course and the project*
+### 🌟 ⭐ 🌟 ⭐ 🌟
 
-### ✨ Academic Achievement ✨
-
-| | |
-|:---:|:---:|
-| 🎓 **Course** | Database Systems |
-| 📊 **Grade** | ![A+](https://img.shields.io/badge/-A%2B-brightgreen?style=flat-square) |
-| 🏆 **Project Score** | ![A+](https://img.shields.io/badge/-A%2B-D4A843?style=flat-square) |
-
-> *"Hard work + passion = A+"* 🏗️
+</div>
 
 </div>
 
